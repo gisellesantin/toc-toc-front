@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "toc-toc-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,10 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "axios": "^0.21.1",
+    "date-fns": "^2.19.0",
     "react": "^17.0.1",
+    "react-charts": "^2.0.0-beta.7",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2",
